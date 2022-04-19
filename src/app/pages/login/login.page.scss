@@ -1,13 +1,31 @@
-.email{
-    position: absolute;
-    top: 400px; left: 40 px;
-    background-color: rgb(218, 213, 213);
-    color:rgb(89, 88, 88)
+.email {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  position: sticky;
+  top: 250px;
+  background-color: rgb(240, 238, 238);
+  color: rgb(79, 79, 79);
+  font-size: small;
 }
 
-.mdp{
-    position: absolute;
-    top: 500px; left: 40 px;
-    background-color: rgb(218, 213, 213);
-    color:rgb(89, 88, 88)
+.mdp {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  position: sticky;
+  top: 300px;
+  background-color: rgb(240, 238, 238);
+  color: rgb(79, 79, 79);
+  font-size: small;
+}
+
+.header {
+  height: 5cm;
+}
+
+.centrer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
