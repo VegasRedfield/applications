@@ -1,9 +1,40 @@
+.header {
+  height: 2cm;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  position: sticky;
+  top: 50px;
+}
+
+.nameComplete {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  position: sticky;
+  top: 120px;
+  background-color: rgb(240, 238, 238);
+  color: rgb(79, 79, 79);
+  font-size: small;
+}
+
+.userName {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  position: sticky;
+  top: 170px;
+  background-color: rgb(240, 238, 238);
+  color: rgb(79, 79, 79);
+  font-size: small;
+}
+
 .email {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
   position: sticky;
-  top: 250px;
+  top: 220px;
   background-color: rgb(240, 238, 238);
   color: rgb(79, 79, 79);
   font-size: small;
@@ -14,23 +45,13 @@
   margin-right: auto;
   width: 90%;
   position: sticky;
-  top: 300px;
+  top: 270px;
   background-color: rgb(240, 238, 238);
   color: rgb(79, 79, 79);
   font-size: small;
 }
 
-.header {
-  height: 5cm;
-}
-
-.centrer {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.connect {
+.follow {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -38,29 +59,4 @@
   position: sticky;
   top: 400px;
   text-transform: initial;
-}
-
-.bvn {
-  font-size: 30px;
-  position: fixed;
-  left: 16px;
-}
-
-.noAccount {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 60%;
-  position: sticky;
-  top: 460px;
-  text-transform: initial;
-}
-
-.mdpForgot {
-  width: 40%;
-  position: fixed;
-  top: 550px;
-  right: 0px;
-  text-transform: initial;
-  font-size: small;
 }
