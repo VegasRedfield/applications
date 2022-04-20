@@ -1,0 +1,49 @@
+.header {
+  height: 3cm;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  position: sticky;
+  top: 50px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  color: #ff1a6c;
+}
+
+.corps {
+  position: sticky;
+  top: 300px;
+  font-size: small;
+}
+
+.ville {
+  position: sticky;
+  top: 120px;
+  font-size: 17px;
+}
+
+.page {
+  height: 100%;
+}
+
+.accessPos {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  position: sticky;
+  top: 400px;
+  text-transform: initial;
+}
+
+.villeInput {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  position: sticky;
+  top: 120px;
+  background-color: rgb(240, 238, 238);
+  color: rgb(79, 79, 79);
+  font-size: small;
+}
